@@ -1,0 +1,25 @@
+body {
+	height: 100%;
+}
+
+textarea{
+	resize: none !important;
+	width: 50em;
+    height: 4em;
+}
+
+button{
+	
+}
+
+.wrapper{
+	display: block;
+}
+
+.comment{
+
+}
+
+li{
+	list-style-type: none;
+}
